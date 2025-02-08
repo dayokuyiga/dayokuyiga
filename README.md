@@ -12,9 +12,9 @@ My journey in Information Systems has created a strong passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Java Programming                              | <a href="https://google.com">Detection Lab</a>|
-| Wireshark sniffing                            | <a href="https://google.com">Detection Lab</a>|
-| Network Security                              | SOC Automation Lab|
+| Java Programming                              | <a href="https://google.com">Java Program</a>|
+| Wireshark sniffing                            | <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet sniffing Lab</a>|
+| Network Security                              | Nmap Lab|
 
 ## Tools
 
@@ -53,6 +53,6 @@ My journey in Information Systems has created a strong passion for cybersecurity
 </div>
 
 ## Projects
-- Packet Sniffing
+- <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet Sniffing Lab</a>
 - Java Weekly Payroll
 - Nmap Scanning
