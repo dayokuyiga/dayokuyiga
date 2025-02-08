@@ -9,7 +9,6 @@ I am a final year undergraduate with a passion in cybersecurity defense and dedi
 My journey in Information Systems has created a strong passion for cybersecurity, by the challenge of defending systems and solving security probelms. I am eager to apply my skills, knowledge, and real-world security challenges and to continue to grow in this evolving field. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
