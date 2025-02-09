@@ -14,7 +14,7 @@ My journey in Information Systems has created a strong passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Java Programming                              | <a href="https://google.com">Java Program</a>|
 | Wireshark sniffing                            | <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet sniffing Lab</a>|
-| Network Security                              | Nmap Lab|
+| Network Security                              | <a href="https://github.com/dayokuyiga/Network-Security-Lab">Network Security Lab</a>|
 
 ## Tools
 
@@ -55,4 +55,4 @@ My journey in Information Systems has created a strong passion for cybersecurity
 ## Projects
 - <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet Sniffing Lab</a>
 - Java Weekly Payroll
-- Nmap Scanning
+- <a href="https://github.com/dayokuyiga/Network-Security-Lab">Network Security Lab</a>
