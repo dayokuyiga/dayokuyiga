@@ -12,7 +12,7 @@ My journey in Information Systems has created a strong passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Java Programming                              | <a href="https://github.com/dayokuyiga/Java-Weekly-Payroll">Weekly Payroll</a>|
+| Java Programming                              | <a href="https://github.com/dayokuyiga/Java-Weekly-Payroll">Weekly payroll</a>|
 | Wireshark sniffing                            | <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet sniffing</a>|
 | Network Security                              | <a href="https://github.com/dayokuyiga/Network-Security-Lab">Nnmap scanning</a>|
 
@@ -54,5 +54,5 @@ My journey in Information Systems has created a strong passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/dayokuyiga/Packet-Sniffing-Lab">Packet Sniffing Lab</a>
-- <a href="https://github.com/dayokuyiga/Java-Weekly-Payroll">Weekly Payroll</a>
+- <a href="https://github.com/dayokuyiga/Java-Weekly-Payroll">Java weekly Payroll project</a>
 - <a href="https://github.com/dayokuyiga/Network-Security-Lab">Network Security Lab</a>
