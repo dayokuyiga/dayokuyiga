@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/david-okuyiga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a final year undergraduate with a passion in cybersecurity defense and dedicated to solving complex security challenges.
+I am a recent graduate with a passion in cybersecurity defense and dedicated to solving complex security challenges.
 
 ## Objective
 
@@ -59,3 +59,4 @@ My journey in Information Systems has created a strong passion for cybersecurity
 - <a href="https://github.com/dayokuyiga/Intrusion-Detection-and-Network-Traffic-Analysts">Network Traffic Lab</a>
 - <a href="https://github.com/dayokuyiga/Malware-Analysis-on-FTP-Server">Malware Analysis Lab</a>
 - <a href="https://github.com/dayokuyiga/Memory-Analysts-Using-Volatility">Memory Analysis Lab</a>
+- <a href="https://github.com/dayokuyiga/Attack-Analysis">Attack Analysis Lab</a>
