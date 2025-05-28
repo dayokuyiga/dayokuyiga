@@ -58,3 +58,4 @@ My journey in Information Systems has created a strong passion for cybersecurity
 - <a href="https://github.com/dayokuyiga/Network-Security-Lab">Network Security Lab</a>
 - <a href="https://github.com/dayokuyiga/Intrusion-Detection-and-Network-Traffic-Analysts">Network Traffic Lab</a>
 - <a href="https://github.com/dayokuyiga/Malware-Analysis-on-FTP-Server">Malware Analysis Lab</a>
+- <a href="https://github.com/dayokuyiga/Memory-Analysts-Using-Volatility">Memory Analysis Lab</a>
